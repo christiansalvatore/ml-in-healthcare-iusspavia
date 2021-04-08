@@ -1,4 +1,4 @@
-# Medical Imaging &amp; Big Data
+# Machine Learning - Basi e Sue Applicazioni
 Data Science | Scuola Universitaria Superiore IUSS Pavia
 <br>
 [Overview](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/overview.pdf) of the program of the course
@@ -7,14 +7,21 @@ Contact: christian.salvatore@iusspavia.it
 
 
 ## Syllabus
-* Segmentation of Medical Images
-* Feature Extraction and Selection Techniques
-* Predictive Models
-* From Medical Images to Disease Biomarkers
-* Texture Analysis
-* Radiomics / Radiogenomics
-* Statistical Parametric Mapping  
+* Machine learning and the «data life cycle»
+     ** Feature extraction
+     ** Feature selection
+     ** Classification
 
+* Validation and classification metrics
+   (or how to stop worrying and setup the model)
+
+* Radiomics and radiogenomics
+
+* Deep-learning techniques
+
+* How to build a model suited for
+   the medical-data domain
+   
 
 ## Program
 * __Lesson #1 (April 09, 2021 | 14:00-17:00)__ <br>
