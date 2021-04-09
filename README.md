@@ -25,7 +25,7 @@ Contact: christian.salvatore@iusspavia.it
 
 ## Program
 * __Lesson #1 (April 09, 2021 | 14:00-17:00)__ <br>
-_ONGOING_
+[__Slides__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__ML-FeatureExtraction-FeatureSelection.pdf)
 https://we.tl/t-4SsnT5fbnt
 
 ## Comments and suggestions
