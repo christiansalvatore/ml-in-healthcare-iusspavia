@@ -4,6 +4,7 @@ Scuola Universitaria Superiore IUSS Pavia
 [Overview](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/overview.pdf) of the program of the course
 <br>
 Contact: christian.salvatore@iusspavia.it
+<br>
 Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLSfxF8qqycKI9O6FOM894NmquqqbDt0BUXrFUmwh7uYPoBexqw/viewform?usp=sf_link).
 
 
