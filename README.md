@@ -1,5 +1,5 @@
 # Machine Learning - Basi e Sue Applicazioni
-Data Science | Scuola Universitaria Superiore IUSS Pavia
+Scuola Universitaria Superiore IUSS Pavia
 <br>
 [Overview](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/overview.pdf) of the program of the course
 <br>
