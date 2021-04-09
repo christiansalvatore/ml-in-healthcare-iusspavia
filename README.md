@@ -8,9 +8,9 @@ Contact: christian.salvatore@iusspavia.it
 
 ## Syllabus
 * Machine learning and the «data life cycle»
-     ** Feature extraction
-     ** Feature selection
-     ** Classification
+    * Feature extraction
+    * Feature selection
+    * Classification
 
 * Validation and classification metrics
    (or how to stop worrying and setup the model)
