@@ -26,6 +26,7 @@ Contact: christian.salvatore@iusspavia.it
 ## Program
 * __Lesson #1 (April 09, 2021 | 14:00-17:00)__ <br>
 _ONGOING_
+https://we.tl/t-4SsnT5fbnt
 
 ## Comments and suggestions
 Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLSfxF8qqycKI9O6FOM894NmquqqbDt0BUXrFUmwh7uYPoBexqw/viewform?usp=sf_link).
