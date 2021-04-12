@@ -26,7 +26,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
    
 
 ## Program
-* __Lesson #1 (April 09, 2021 | 14:00-17:00)__ <br>
+* __Lesson #1 (April 09, 2021 \| 14:00-17:00)__ <br>
 (machine learning and the «data life cycle»; feature extraction; feature selection) <br>
 [__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__ML-FeatureExtraction-FeatureSelection.pdf)
 [__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code/00.PCA)
@@ -34,15 +34,15 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 <br>
 
-* __Lesson #2 (April 16, 2021 | 14:00-17:00)__
+* __Lesson #2 (April 16, 2021 \| 14:00-17:00)__
 
 <br>
 
-* __Lesson #3 (April 23, 2021 | 14:00-16:00)__
+* __Lesson #3 (April 23, 2021 \| 14:00-16:00)__
 
 <br>
 
-* __Lesson #4 (April 30, 2021 | 14:00-16:00)__
+* __Lesson #4 (April 30, 2021 \| 14:00-16:00)__
 
 <br>
 
