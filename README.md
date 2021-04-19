@@ -36,7 +36,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 * __Lesson #2 (April 16, 2021 \| 14:00-17:00)__
 (machine learning and the «data life cycle»; classificationi algorithms: clustering with k-means, knn, decision trees, svm, ensemble of classifiers) <br>
-[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__ML-Classification-A.pdf)
+[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L2__ML-Classification-A.pdf)
 [__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code/)
 
 <br>
