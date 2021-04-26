@@ -28,7 +28,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 ## Program
 * __Lesson #1 (April 09, 2021 \| 14:00-17:00)__ <br>
 (machine learning and the «data life cycle»; feature extraction; feature selection) <br>
-[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__ML-FeatureExtraction-FeatureSelection.pdf)
+[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__machinelearning.pdf)
 [__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code/00.PCA)
 [__[Dataset]__](https://we.tl/t-4SsnT5fbnt)
 
@@ -36,12 +36,15 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 * __Lesson #2 (April 16, 2021 \| 14:00-17:00)__
 (machine learning and the «data life cycle»; classificationi algorithms: clustering with k-means, knn, decision trees, svm, ensemble of classifiers) <br>
-[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L2__ML-Classification-A.pdf)
+[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__machinelearning.pdf)
 [__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code/)
 
 <br>
 
 * __Lesson #3 (April 23, 2021 \| 14:00-16:00)__
+(machine learning and the «data life cycle»; classificationi algorithms: ensemble of classifiers, random forest; validation and classification metrics) <br>
+[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__machinelearning.pdf)
+[__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code/)
 
 <br>
 
