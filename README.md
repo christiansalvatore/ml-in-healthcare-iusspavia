@@ -35,20 +35,22 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 <br>
 
 * __Lesson #2 (April 16, 2021 \| 14:00-17:00)__
-(machine learning and the «data life cycle»; classificationi algorithms: clustering with k-means, knn, decision trees, svm, ensemble of classifiers) <br>
+(machine learning and the «data life cycle»; classification algorithms: clustering with k-means, knn, decision trees, svm, ensemble of classifiers) <br>
 [__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__machinelearning.pdf)
 [__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code/)
 
 <br>
 
 * __Lesson #3 (April 23, 2021 \| 14:00-16:00)__
-(machine learning and the «data life cycle»; classificationi algorithms: ensemble of classifiers, random forest; validation and classification metrics) <br>
+(machine learning and the «data life cycle»; classification algorithms: ensemble of classifiers, random forest; validation and classification metrics) <br>
 [__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__machinelearning.pdf)
 [__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code/)
 
 <br>
 
 * __Lesson #4 (April 30, 2021 \| 14:00-16:00)__
+(classification algorithms: artificial neural networks; deep learning; convolutional neural networks; radiomics; ai applications in medical imaging) <br>
+[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons)
 
 <br>
 
