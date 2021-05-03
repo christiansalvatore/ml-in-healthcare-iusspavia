@@ -51,7 +51,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #4 (April 30, 2021 \| 14:00-16:00)__
 (classification algorithms: artificial neural networks; deep learning; convolutional neural networks; radiomics; ai applications in medical imaging) <br>
 [__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons)
-[__[Ref]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/references)
+[__[References]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/references)
 
 <br>
 
