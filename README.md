@@ -1,4 +1,4 @@
-# Machine Learning - Basi e Sue Applicazioni
+# Machine learning e modelli di classificazione di dati biomedici
 Scuola Universitaria Superiore IUSS Pavia
 <br>
 [Overview](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/overview.pdf) of the program of the course
@@ -17,7 +17,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * Validation and classification metrics
    (or how to stop worrying and setup the model)
 
-* Radiomics and radiogenomics
+* Radiomics
 
 * Deep-learning techniques
 
@@ -26,32 +26,11 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
    
 
 ## Program
-* __Lesson #1 (April 09, 2021 \| 14:00-17:00)__ <br>
-(machine learning and the «data life cycle»; feature extraction; feature selection) <br>
-[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__machinelearning.pdf)
-[__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code/00.PCA)
-[__[Dataset]__](https://we.tl/t-4SsnT5fbnt)
-
-<br>
-
-* __Lesson #2 (April 16, 2021 \| 14:00-17:00)__
-(machine learning and the «data life cycle»; classification algorithms: clustering with k-means, knn, decision trees, svm, ensemble of classifiers) <br>
-[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__machinelearning.pdf)
-[__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code/)
-
-<br>
-
-* __Lesson #3 (April 23, 2021 \| 14:00-16:00)__
-(machine learning and the «data life cycle»; classification algorithms: ensemble of classifiers, random forest; validation and classification metrics) <br>
-[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons/L1__machinelearning.pdf)
-[__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code/)
-
-<br>
-
-* __Lesson #4 (April 30, 2021 \| 14:00-16:00)__
-(classification algorithms: artificial neural networks; deep learning; convolutional neural networks; radiomics; ai applications in medical imaging) <br>
-[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/lessons)
-[__[References]__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/references)
+* __Lesson #1 (November 19, 2021 \| 14:30-17:00)__ <br>
+(machine learning and the «data life cycle») <br>
+[__[Slides]__](tbd)
+[__[Code]__](tbd)
+[__[Dataset]__](tbd)
 
 <br>
 
