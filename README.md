@@ -1,7 +1,7 @@
 # Machine learning e modelli di classificazione di dati biomedici
 Scuola Universitaria Superiore IUSS Pavia
 <br>
-[Overview](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/master/overview.pdf) of the program of the course
+[Overview](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/main/lessons/L0__overview.pdf) of the program of the course
 <br>
 Contact: christian.salvatore@iusspavia.it
 <br>
@@ -26,11 +26,17 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
    
 
 ## Program
-* __Lesson #1 (November 19, 2021 \| 14:30-17:00)__ <br>
-(machine learning and the «data life cycle») <br>
-[__[Slides]__](tbd)
-[__[Code]__](tbd)
-[__[Dataset]__](tbd)
+* [__Lesson #1__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/main/lessons/L1__machinelearning.pdf) __(November 19, 2021 \| 14:30-17:00)__ <br>
+	* Machine learning and the «data life cycle»
+	* Feature extraction (principal components analysis)
+	* Feature selection (linear discriminant analysis)
+	* Unsupervised machine learning (clustering, k-means)
+	* Supervised machine learning (k-nearest neighbors)
+
+<br>
+
+## Material
+[__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/lessons)
 
 <br>
 
