@@ -35,6 +35,17 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 <br>
 
+## Program
+* [__Lesson #2__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/main/lessons/L1__machinelearning.pdf) __(November 26, 2021 \| 14:30-17:00)__ <br>
+	* Machine learning and the «data life cycle»
+	* Supervised machine learning, curse of dimensionality, bias-variance tradeoff, decision functions
+	* K-nearest neighbors
+	* Support vector machine
+	* Ensemble of classifiers
+	* Random forest
+
+<br>
+
 ## Material
 [__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/lessons)
 
