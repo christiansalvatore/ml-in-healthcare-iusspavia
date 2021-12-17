@@ -46,6 +46,22 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 <br>
 
+## Program
+* __Lesson #3__ (__December 03, 2021 \| 14:30-17:00)__ <br>
+	* Practical exercises and coding on Matlab: feature extraction, feature selection, machine-learning techniques, knn, svm, random forest
+
+<br>
+
+## Program
+* __Lesson #4__ (__December 10, 2021 \| 14:30-17:00)__ <br>
+	* Validation procedures
+	* Performance evaluation and metrics
+	* How to apply machine learning to the medical-data domain
+	* Examples of application to the medical-imaging and biomedical-data domain
+	* A very brief introduction to artificial neural networks and deep learning
+
+<br>
+
 ## Material
 [__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/lessons)
 [__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code)
