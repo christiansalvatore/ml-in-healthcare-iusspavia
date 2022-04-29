@@ -10,55 +10,38 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 ## Syllabus
 * Machine learning and the «data life cycle»
-    * Feature extraction
-    * Feature selection
-    * Classification
 
 * Validation and classification metrics
-   (or how to stop worrying and setup the model)
 
-* Radiomics
+* Feature extraction
 
-* Deep-learning techniques
+* Feature selection
 
-* How to build a model suited for
-   the medical-data domain
+* ML classifiers
+
    
 
 ## Program
-* [__Lesson #1__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/main/lessons/L1__machinelearning.pdf) __(November 19, 2021 \| 14:30-17:00)__ <br>
-	* Machine learning and the «data life cycle»
-	* Feature extraction (principal components analysis)
-	* Feature selection (linear discriminant analysis)
-	* Unsupervised machine learning (clustering, k-means)
-	* Supervised machine learning (k-nearest neighbors)
+* __Lesson #1__ (__April 29, 2022 \| 14:30-17:00)__ <br>
+
 
 <br>
 
 ## Program
-* [__Lesson #2__](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/main/lessons/L1__machinelearning.pdf) __(November 26, 2021 \| 14:30-17:00)__ <br>
-	* Machine learning and the «data life cycle»
-	* Supervised machine learning, curse of dimensionality, bias-variance tradeoff, decision functions
-	* K-nearest neighbors
-	* Support vector machine
-	* Ensemble of classifiers
-	* Random forest
+* __Lesson #2__ (__May 06, 2022 \| 14:30-17:00)__ <br>
+
 
 <br>
 
 ## Program
-* __Lesson #3__ (__December 03, 2021 \| 14:30-17:00)__ <br>
-	* Practical exercises and coding on Matlab: feature extraction, feature selection, machine-learning techniques, knn, svm, random forest
+* __Lesson #3__ (__May 13, 2022 \| 14:30-17:00)__ <br>
+
 
 <br>
 
 ## Program
-* __Lesson #4__ (__December 10, 2021 \| 14:30-17:00)__ <br>
-	* Validation procedures
-	* Performance evaluation and metrics
-	* How to apply machine learning to the medical-data domain
-	* Examples of application to the medical-imaging and biomedical-data domain
-	* A very brief introduction to artificial neural networks and deep learning
+* __Lesson #4__ (__May 27, 2022 \| 14:30-17:00)__ <br>
+
 
 <br>
 
