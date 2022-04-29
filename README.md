@@ -1,4 +1,4 @@
-# Machine learning e modelli di classificazione di dati biomedici
+# Machine learning: basi e sue applicazioni
 Scuola Universitaria Superiore IUSS Pavia
 <br>
 [Overview](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/main/lessons/L0__overview.pdf) of the program of the course
