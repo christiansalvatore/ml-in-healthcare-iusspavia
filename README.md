@@ -34,6 +34,12 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 ## Program
 * __Lesson #2__ (__May 06, 2022 \| 14:30-17:00)__ <br>
+	* (SCHEDULED)
+	* Performance and evaluation metrics -> ROC-AUC
+	* Underfitting and overfitting
+	* Feature extraction: Principal Component Analysis
+	* Feature selection: Mutual Information, Near-Zero Variance, Fischer's Discriminant Ratio
+	* Practical exercise: hands-on coding on Matlab
 
 
 <br>
