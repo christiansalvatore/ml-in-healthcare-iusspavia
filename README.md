@@ -23,11 +23,11 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 ## Program
 * __Lesson #1__ (__April 29, 2022 \| 14:30-17:00)__ <br>
-** Overview
-** Introduction to achine learning
-** Training, validation and testing phases
-** Validation techniques (splitting, cross validation, k-fold cross validation, nested k-fold cross validation)
-** Performance and evaluation metrics
+	* Overview
+	* Introduction to achine learning
+	* Training, validation and testing phases
+	* Validation techniques (splitting, cross validation, k-fold cross validation, nested k-fold cross validation)
+	* Performance and evaluation metrics
 
 
 <br>
