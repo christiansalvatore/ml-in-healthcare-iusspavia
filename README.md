@@ -38,7 +38,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* Underfitting and overfitting
 	* Feature extraction: Principal Component Analysis
 	* Feature selection: Mutual Information, Near-Zero Variance, Fischer's Discriminant Ratio
-	* Practical exercise: hands-on coding on Matlab
+	* Practical exercise: hands-on coding on Matlab <br>
 	Dataset utilizzato per l'esecitazione: https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17
 
 
