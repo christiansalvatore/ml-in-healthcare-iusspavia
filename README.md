@@ -46,6 +46,11 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 ## Program
 * __Lesson #3__ (__May 13, 2022 \| 14:30-17:00)__ <br>
+	* Decision Tree
+	* Support Vector Machine
+	* Ensemble of classifiers: bagging, stacking, blending, boosting
+	* Random Forest
+	* Practical exercise: hands-on coding on Matlab
 
 
 <br>
