@@ -1,4 +1,4 @@
-# Machine learning: basi e sue applicazioni
+# Machine learning in healthcare
 Scuola Universitaria Superiore IUSS Pavia
 <br>
 [Overview](https://github.com/christiansalvatore/machinelearning-iusspavia/blob/main/lessons/L0__overview.pdf) of the program of the course
@@ -65,6 +65,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 [__[Slides]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/lessons)
 [__[Code]__](https://github.com/christiansalvatore/machinelearning-iusspavia/tree/main/code)
 [__[Dataset]__]((https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17))
+[__[Competition]__]((https://www.kaggle.com/t/35810b4eb0ea4c698b3205ad2ed27684))
 
 <br>
 
