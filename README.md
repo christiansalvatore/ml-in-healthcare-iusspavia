@@ -7,19 +7,12 @@ Contact: christian.salvatore@iusspavia.it
 <br>
 Please, leave any comment/suggestion about the course [here]().
 
-
-## Syllabus
-* Machine learning and the «data life cycle»
-
+## Covered topics
+* Machine learning and the «data life cycle» in healthcare
 * Validation and classification metrics
-
 * Feature extraction
-
 * Feature selection
-
 * ML classifiers
-
-   
 
 ## Program
 * __Lesson #1__ (__March 16, 2023 \| 18:00-20:00)__ <br>
