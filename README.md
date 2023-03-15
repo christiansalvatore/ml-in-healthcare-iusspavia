@@ -30,8 +30,8 @@ Please, leave any comment/suggestion about the course [here]().
 ## Material
 [__[Slides]__]()
 [__[Code]__]()
-[__[Dataset]__](())
-[__[Competition]__]((https://www.kaggle.com/t/35810b4eb0ea4c698b3205ad2ed27684))
+[__[Dataset]__]()
+[__[Competition]__](https://www.kaggle.com/t/35810b4eb0ea4c698b3205ad2ed27684)
 
 <br>
 
