@@ -22,7 +22,7 @@ Please, leave any comment/suggestion about the course [here]().
    
 
 ## Program
-* __Lesson #1__ (__April 29, 2022 \| 14:30-17:00)__ <br>
+* __Lesson #1__ (__March 16, 2023 \| 18:00-20:00)__ <br>
 	* Overview
 
 <br>
