@@ -5,7 +5,7 @@ Scuola Universitaria Superiore IUSS Pavia
 <br>
 Contact: christian.salvatore@iusspavia.it
 <br>
-Please, leave any comment/suggestion about the course [here]().
+Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLScv6GB87NED6Dufv2K67YrP4yhGGHuBZk_je2G5EnhH7IRyzQ/viewform?usp=sf_link).
 
 ## Covered topics
 * Machine learning and the «data life cycle» in healthcare
@@ -32,4 +32,4 @@ Please, leave any comment/suggestion about the course [here]().
 <br>
 
 ## Comments and suggestions
-Please, leave any comment/suggestion about the course [here]().
+Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLScv6GB87NED6Dufv2K67YrP4yhGGHuBZk_je2G5EnhH7IRyzQ/viewform?usp=sf_link).
