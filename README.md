@@ -25,7 +25,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 ## Material
 [__[Slides]__](https://drive.google.com/drive/folders/1QjjutCJ5DEm9KVGApWlUuYPbIpBl-HPE?usp=sharing)
-[__[Code]__](https://drive.google.com/drive/folders/1fNVYixvuFPLhRpw9zy4Uy9dre_SKE84T?usp=sharing)
+[__[Code]__](https://drive.google.com/drive/folders/1oGEkJD5VDR2XDQD3_qSlC-Qj8y-KwmlD?usp=sharing)
 [__[Dataset]__](https://drive.google.com/drive/folders/1ughIQwT397LDUlY3LdtzExZ4ZkH82OMW?usp=sharing)
 [__[Competition]__](https://www.kaggle.com/t/35810b4eb0ea4c698b3205ad2ed27684)
 
