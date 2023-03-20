@@ -17,6 +17,9 @@ Please, leave any comment/suggestion about the course [here]().
 ## Program
 * __Lesson #1__ (__March 16, 2023 \| 18:00-20:00)__ <br>
 	* Overview
+	* Machine learning in healthcare: introduction with clinical examples
+* __Lesson #2__ (__March 20, 2023 \| 18:00-20:00)__ <br>
+	* Medical-imaging techniques
 
 <br>
 
