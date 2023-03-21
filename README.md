@@ -14,7 +14,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * Feature extraction
 * Feature selection
 * ML classifiers
-* Model implemeentation </>
+* Model implementation </>
 
 ## Program
 * __Lesson #1__ (__March 16, 2023 \| 18:00-20:00)__ <br>
