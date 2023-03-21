@@ -9,10 +9,12 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 ## Covered topics
 * Machine learning and the «data life cycle» in healthcare
+* Medical imaging
 * Validation and classification metrics
 * Feature extraction
 * Feature selection
 * ML classifiers
+* Model implemeentation </>
 
 ## Program
 * __Lesson #1__ (__March 16, 2023 \| 18:00-20:00)__ <br>
