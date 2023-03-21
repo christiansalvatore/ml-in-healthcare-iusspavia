@@ -19,6 +19,8 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* Overview
 	* Machine learning in healthcare: introduction with clinical examples
 * __Lesson #2__ (__March 20, 2023 \| 18:00-20:00)__ <br>
+	* Medical-imaging techniques: X Rays, Computed Tomography
+* __Lesson #3__ (__March 23, 2023 \| 18:00-20:00)__ <br>
 	* Medical-imaging techniques
 
 <br>
