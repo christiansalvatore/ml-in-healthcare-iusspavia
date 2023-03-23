@@ -23,7 +23,9 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #2__ (__March 20, 2023 \| 18:00-20:00)__ <br>
 	* Medical-imaging techniques: X Rays, Computed Tomography
 * __Lesson #3__ (__March 23, 2023 \| 18:00-20:00)__ <br>
-	* Medical-imaging techniques
+	* Medical-imaging techniques: PET
+	* The DICOM standard
+	* </> exercise
 
 <br>
 
