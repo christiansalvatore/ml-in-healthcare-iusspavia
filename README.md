@@ -27,6 +27,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* The DICOM standard
 	* </> exercise
 * __Lesson #4__ (__March 27, 2023 \| 18:00-20:00)__ <br>
+	* Medical-imaging techniques: MRI, US
 
 <br>
 
