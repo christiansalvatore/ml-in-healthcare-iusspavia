@@ -29,11 +29,16 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #4__ (__March 27, 2023 \| 18:00-20:00)__ <br>
 	* Medical-imaging techniques: MRI, US
 	* The NIfTI standard
+	* </> exercise
 * __Lesson #5__ (__March 31, 2023 \| 16:00-19:00)__ <br>
 	* Machine learning
 	* Validation / Evaluation
 	* Overfitting / Underfitting
 	* Feature extraction: Principal Components Analysis
+	* </> exercise
+* __Lesson #6__ (__April 3, 2023 \| 18:00-20:00)__ <br>
+	* Radiomics
+	* </> exercise
 
 <br>
 
