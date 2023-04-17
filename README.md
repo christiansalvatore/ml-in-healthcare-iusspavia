@@ -39,6 +39,21 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #6__ (__April 3, 2023 \| 18:00-20:00)__ <br>
 	* Radiomics
 	* </> exercise
+* __Lesson #7__ (__April 17, 2023 \| 18:00-20:00)__ <br>
+	* Feature selection
+	* ML classifiers: Decision Trees
+	* </> exercise
+* __Lesson #8__ (__April 20, 2023 \| 18:00-20:00)__ <br>
+	* ML classifiers: Support Vector Machine
+	* </> exercise
+* __Lesson #9__ (__April 28, 2023 \| 16:00-19:00)__ <br>
+	* ML classifiers: ensemble of classifiers; Neural Networks
+	* </> exercise
+* __Lesson #10__ (__May ---, 2023 \| 18:00-20:00)__ <br>
+	* ML classifiers: Deep Learning
+	* </> exercise
+* __Lesson #11__ (__May 12, 2023 \| 16:00-19:00)__ <br>
+	* Project presentation
 
 <br>
 
