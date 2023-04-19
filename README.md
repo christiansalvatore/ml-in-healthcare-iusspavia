@@ -17,42 +17,42 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * Model implementation </>
 
 ## Program
-* __Lesson #1__ (__March 16, 2023 \| 18:00-20:00)__ <br>
+* __Lesson #1__ __(March 16, 2023 \| 18:00-20:00)__ <br>
 	* Overview
 	* Machine learning in healthcare: introduction with clinical examples
-* __Lesson #2__ (__March 20, 2023 \| 18:00-20:00)__ <br>
+* __Lesson #2__ __(March 20, 2023 \| 18:00-20:00)__ <br>
 	* Medical-imaging techniques: X Rays, Computed Tomography
-* __Lesson #3__ (__March 23, 2023 \| 18:00-20:00)__ <br>
+* __Lesson #3__ __(March 23, 2023 \| 18:00-20:00)__ <br>
 	* Medical-imaging techniques: PET
 	* The DICOM standard
 	* </> exercise
-* __Lesson #4__ (__March 27, 2023 \| 18:00-20:00)__ <br>
+* __Lesson #4__ __(March 27, 2023 \| 18:00-20:00)__ <br>
 	* Medical-imaging techniques: MRI, US
 	* The NIfTI standard
 	* </> exercise
-* __Lesson #5__ (__March 31, 2023 \| 16:00-19:00)__ <br>
+* __Lesson #5__ __(March 31, 2023 \| 16:00-19:00)__ <br>
 	* Machine learning
 	* Validation / Evaluation
 	* Overfitting / Underfitting
 	* Feature extraction: Principal Components Analysis
 	* </> exercise
-* __Lesson #6__ (__April 3, 2023 \| 18:00-20:00)__ <br>
+* __Lesson #6__ __(April 3, 2023 \| 18:00-20:00)__ <br>
 	* Radiomics
 	* </> exercise
-* __Lesson #7__ (__April 17, 2023 \| 18:00-20:00)__ <br>
+* __Lesson #7__ __(April 17, 2023 \| 18:00-20:00)__ <br>
 	* Feature selection
 	* ML classifiers: Decision Trees
 	* </> exercise
-* __Lesson #8__ (__April 20, 2023 \| 18:00-20:00)__ <br>
+* __Lesson #8__ __(April 20, 2023 \| 18:00-20:00)__ <br>
 	* ML classifiers: Support Vector Machine
 	* </> exercise
-* __Lesson #9__ (__April 28, 2023 \| 16:00-19:00)__ <br>
+* __Lesson #9__ __(April 28, 2023 \| 16:00-19:00)__ <br>
 	* ML classifiers: ensemble of classifiers; Neural Networks
 	* </> exercise
-* __Lesson #10__ (__May 5, 2023 \| 18:00-20:00)__ <br>
+* __Lesson #10__ __(May 5, 2023 \| 18:00-20:00)__ <br>
 	* ML classifiers: Deep Learning
 	* </> exercise
-* __Lesson #11__ (__May 12, 2023 \| 16:00-19:00)__ <br>
+* __Lesson #11__ __(May 12, 2023 \| 16:00-19:00) *** Aula 1-15, Broletto ***__ <br>
 	* Project presentation
 
 <br>
