@@ -49,7 +49,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #9__ (__April 28, 2023 \| 16:00-19:00)__ <br>
 	* ML classifiers: ensemble of classifiers; Neural Networks
 	* </> exercise
-* __Lesson #10__ (__May ---, 2023 \| 18:00-20:00)__ <br>
+* __Lesson #10__ (__May 5, 2023 \| 18:00-20:00)__ <br>
 	* ML classifiers: Deep Learning
 	* </> exercise
 * __Lesson #11__ (__May 12, 2023 \| 16:00-19:00)__ <br>
