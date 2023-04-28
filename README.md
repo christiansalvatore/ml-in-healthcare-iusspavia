@@ -47,10 +47,10 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* ML classifiers: Support Vector Machine
 	* </> exercise
 * __Lesson #9__ __(April 28, 2023 \| 16:00-19:00)__ <br>
-	* ML classifiers: ensemble of classifiers; Neural Networks
+	* ML classifiers: ensemble of classifiers
 	* </> exercise
 * __Lesson #10__ __(May 5, 2023 \| 18:00-20:00)__ <br>
-	* ML classifiers: Deep Learning
+	* ML classifiers: Neural Networks; Deep Learning
 	* </> exercise
 * __Lesson #11__ __(May 12, 2023 \| 16:00-19:00) *** Aula 1-15, Broletto ***__ <br>
 	* Project presentation
