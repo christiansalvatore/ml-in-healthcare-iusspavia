@@ -4,8 +4,6 @@ Scuola Universitaria Superiore IUSS Pavia
 [Overview](https://github.com/christiansalvatore/ml-in-healthcare-iusspavia/blob/main/L0a__overview.pdf) of the program of the course
 <br>
 Contact: christian.salvatore@iusspavia.it
-<br>
-Please, leave any comment/suggestion about the course [here](https://docs.google.com/forms/d/e/1FAIpQLScv6GB87NED6Dufv2K67YrP4yhGGHuBZk_je2G5EnhH7IRyzQ/viewform?usp=sf_link).
 
 ## Covered topics
 * Machine learning and the «data life cycle» in healthcare
@@ -16,7 +14,59 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * ML classifiers
 * Model implementation </>
 
-## Program
+## Program (2023-2024)
+* __Lesson #1__ __(March 11, 2024 \| 18:00-20:00)__ <br>
+	* Overview
+	* Machine learning in healthcare: introduction with clinical examples
+	* Medical imaging
+ 	* Ultrasound imaging
+* __Lesson #2__ __(March 13, 2024 \| 18:00-20:00)__ <br>
+	* The DICOM standard
+	* The NIfTI standard
+	* </> exercise
+* __Lesson #3__ __(March 18, 2024 \| 18:00-20:00)__ <br>
+	* Machine learning
+	* Validation / Evaluation
+	* Overfitting / Underfitting
+	* Feature extraction
+	* </> exercise
+* __Lesson #4__ __(March 20, 2024 \| 18:00-20:00)__ <br>
+	* Image segmentation
+   	* Radiomics
+	* </> exercise
+* __Lesson #5__ __(March 25, 2024 \| 16:00-19:00)__ <br>
+	* Feature selection
+	* ML classifiers: Decision Trees
+ 	* ML classifiers: Support Vector Machine
+	* </> exercise
+* __Lesson #6__ __(April 8, 2024 \| 16:00-19:00)__ <br>
+	* ML classifiers: ensemble of classifiers
+	* ML classifiers: Neural Networks; Deep Learning
+   	* </> exercise
+* __Lesson #7__ __(April 10, 2024 \| 18:00-20:00 | Prof. Cava)__ <br>
+	* Biological databases
+* __Lesson #8__ __(April 15, 2024 \| 16:00-19:00 | Prof. Cava)__ <br>
+	* Extraction and analysis of genomic data
+* __Lesson #9__ __(April 17, 2024 \| 15:00-18:00)__ <br>
+	* Class imbalance
+ 	* Explainable AI
+	* </> exercise
+* __Lesson #10__ __(May 8, 2023 \| 16:00-19:00)__ <br>
+	* Project presentation
+
+<br>
+
+## Material (to be added)
+[__[Slides]__]()
+[__[Code]__]()
+[__[Dataset]__]()
+[__[Literature]__]()
+[__[Parent Folder]__]()
+[__[Competition]__]()
+[__[Example of papers for examination]__]()
+
+## Archive
+## Program (2022-2023)
 * __Lesson #1__ __(March 16, 2023 \| 18:00-20:00)__ <br>
 	* Overview
 	* Machine learning in healthcare: introduction with clinical examples
@@ -54,18 +104,6 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* </> exercise
 * __Lesson #11__ __(May 12, 2023 \| 16:00-19:00) *** Aula 1-15, Broletto ***__ <br>
 	* Project presentation
-
-<br>
-
-## Material
-[__[Slides]__](https://drive.google.com/drive/folders/1QjjutCJ5DEm9KVGApWlUuYPbIpBl-HPE?usp=sharing)
-[__[Code]__](https://drive.google.com/drive/folders/1oGEkJD5VDR2XDQD3_qSlC-Qj8y-KwmlD?usp=sharing)
-[__[Dataset]__](https://drive.google.com/drive/folders/1ughIQwT397LDUlY3LdtzExZ4ZkH82OMW?usp=sharing)
-[__[Literature]__](https://drive.google.com/drive/folders/14LVJ5sR7mhy99Uv0cV7_Z80aClvzVcdx?usp=sharing)
-[__[Parent Folder]__](https://drive.google.com/drive/folders/1fNVYixvuFPLhRpw9zy4Uy9dre_SKE84T?usp=sharing)
-[__[Competition]__](https://www.kaggle.com/t/35810b4eb0ea4c698b3205ad2ed27684)
-<br>
-**NEW** [__[Example of papers for examination]__](https://drive.google.com/drive/folders/1Zdr8SXqCuzjFLq2xSxZC7ODG7JJalOMn?usp=sharing)
 
 <br>
 
