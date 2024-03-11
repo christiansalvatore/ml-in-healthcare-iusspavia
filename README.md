@@ -1,8 +1,6 @@
 # Machine learning in healthcare
 Scuola Universitaria Superiore IUSS Pavia
 <br>
-[Overview](https://github.com/christiansalvatore/ml-in-healthcare-iusspavia/blob/main/L0a__overview.pdf) of the program of the course
-<br>
 Contact: christian.salvatore@iusspavia.it
 
 ## Covered topics
