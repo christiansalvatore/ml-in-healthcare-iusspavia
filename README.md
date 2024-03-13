@@ -57,14 +57,15 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 
 <br>
 
-## Material (to be added)
-[__[Slides]__]()
-[__[Code]__]()
-[__[Dataset]__]()
-[__[Literature]__]()
-[__[Parent Folder]__]()
-[__[Competition]__]()
-[__[Example of papers for examination]__]()
+## Material
+[__[Slides]__](https://drive.google.com/drive/folders/1dxCNmXTRdn7BhXU8m_wib-_tqdEiAnfc?usp=drive_link)
+[__[Code]__](https://drive.google.com/drive/folders/117ytlIqFHR3JCOQKwYwxiK2dJiGCgwFf?usp=drive_link)
+[__[Dataset]__](https://drive.google.com/drive/folders/11HbSmpo5W9w7P8mvQCJnhFuPPuN8jjYX?usp=drive_link)
+[__[Literature]__](https://drive.google.com/drive/folders/11F2J1HOIqK7LlQsWfHWaJ3_Bd65WnGKF?usp=drive_link)
+[__[Parent Folder]__](https://drive.google.com/drive/folders/1D3QhBieMsD8sGNj8zhyXSQN13QNGWfpe?usp=drive_link)
+[__[Competition]__](TBD)
+[__[Teams]__](https://drive.google.com/drive/folders/11FbBHLLG0BnhRWTlJvI6Bres8Q4elQ3D?usp=drive_link)
+[__[Example of papers for examination]__](https://drive.google.com/drive/folders/11D8Wg7hkvtEvZLKqLFeWM3SiVhVZP6S7?usp=sharing)
 
 ## Archive
 ## Program (2022-2023)
