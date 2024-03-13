@@ -15,7 +15,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * Model implementation </>
 
 ## Program (2023-2024)
-* __Lesson #1__ __(March 11, 2024 \| 18:00-20:00)__ - [x] <br>
+* __Lesson #1__ __(March 11, 2024 \| 18:00-20:00)__ :heavy_check_mark: <br>
 	* Overview
 	* Machine learning in healthcare: introduction with clinical examples
 	* Medical imaging
