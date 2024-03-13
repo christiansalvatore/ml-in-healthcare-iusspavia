@@ -21,6 +21,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* Medical imaging
  	* Ultrasound imaging
 * __Lesson #2__ __(March 13, 2024 \| 18:00-20:00)__ <br>
+	* Ultrasound imaging
 	* The DICOM standard
 	* The NIfTI standard
 	* </> exercise
