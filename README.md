@@ -20,7 +20,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* Machine learning in healthcare: introduction with clinical examples
 	* Medical imaging
  	* Ultrasound imaging
-* __Lesson #2__ __(March 13, 2024 \| 18:00-20:00)__ <br>
+* __Lesson #2__ __(March 13, 2024 \| 18:00-20:00)__ <br> :heavy_check_mark: <br>
 	* Ultrasound imaging
 	* The DICOM standard
 	* The NIfTI standard
@@ -30,7 +30,6 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* Validation / Evaluation
 	* Overfitting / Underfitting
 	* Feature extraction
-	* </> exercise
 * __Lesson #4__ __(March 20, 2024 \| 18:00-20:00)__ <br>
 	* Image segmentation
    	* Radiomics
