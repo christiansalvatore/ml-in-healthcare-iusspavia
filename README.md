@@ -25,15 +25,14 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* The DICOM standard
 	* The NIfTI standard
 	* </> exercise
-* __Lesson #3__ __(March 18, 2024 \| 18:00-20:00)__ <br>
+* __Lesson #3__ __(March 18, 2024 \| 18:00-20:00)__ :heavy_check_mark: <br>
 	* Machine learning
 	* Validation / Evaluation
+* __Lesson #4__ __(March 20, 2024 \| 18:00-20:00)__ <br>
 	* Overfitting / Underfitting
 	* Feature extraction
-* __Lesson #4__ __(March 20, 2024 \| 18:00-20:00)__ <br>
 	* Image segmentation
    	* Radiomics
-	* </> exercise
 * __Lesson #5__ __(March 25, 2024 \| 16:00-19:00)__ <br>
 	* Feature selection
 	* ML classifiers: Decision Trees
