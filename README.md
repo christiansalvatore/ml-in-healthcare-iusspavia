@@ -15,17 +15,17 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * Model implementation </>
 
 ## Program (2023-2024)
-* __Lesson #1__ __(March 11, 2024 \| 18:00-20:00)__ :heavy_check_mark: <br>
+* __Lesson #1__ __(March 11, 2024 \| 18:00-20:00)__ ✓ <br>
 	* Overview
 	* Machine learning in healthcare: introduction with clinical examples
 	* Medical imaging
  	* Ultrasound imaging
-* __Lesson #2__ __(March 13, 2024 \| 18:00-20:00)__ :heavy_check_mark: <br>
+* __Lesson #2__ __(March 13, 2024 \| 18:00-20:00)__ ✓ <br>
 	* Ultrasound imaging
 	* The DICOM standard
 	* The NIfTI standard
 	* </> exercise
-* __Lesson #3__ __(March 18, 2024 \| 18:00-20:00)__ :heavy_check_mark: <br>
+* __Lesson #3__ __(March 18, 2024 \| 18:00-20:00)__ ✓ <br>
 	* Machine learning
 	* Validation / Evaluation
 * __Lesson #4__ __(March 20, 2024 \| 18:00-20:00)__ <br>
