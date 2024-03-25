@@ -32,14 +32,14 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* Overfitting / Underfitting
 	* Feature extraction
 	* Image segmentation
-* __Lesson #5__ __(March 25, 2024 \| 16:00-19:00)__ <br>
+* __Lesson #5__ __(March 25, 2024 \| 16:00-19:00)__ ✓ <br>
 	* Image segmentation
 	* Radiomics
     	* Feature selection
-	* ML classifiers: Support Vector Machine
 	* </> exercise
 * __Lesson #6__ __(April 8, 2024 \| 16:00-19:00)__ <br>
-	* ML classifiers: Decision Trees
+	* ML classifiers: Support Vector Machine
+   	* ML classifiers: Decision Trees
 	* ML classifiers: ensemble of classifiers
 	* </> exercise
 * __Lesson #7__ __(April 10, 2024 \| 18:00-20:00 \| Prof. Cava)__ <br>
