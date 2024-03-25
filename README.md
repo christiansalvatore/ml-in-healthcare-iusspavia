@@ -35,7 +35,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #5__ __(March 25, 2024 \| 16:00-19:00)__ ✓ <br>
 	* Image segmentation
 	* Radiomics
-    	* Feature selection
+	* Feature selection
 	* </> exercise
 * __Lesson #6__ __(April 8, 2024 \| 16:00-19:00)__ <br>
 	* ML classifiers: Support Vector Machine
