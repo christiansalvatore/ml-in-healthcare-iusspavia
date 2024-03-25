@@ -39,7 +39,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* </> exercise
 * __Lesson #6__ __(April 8, 2024 \| 16:00-19:00)__ <br>
 	* ML classifiers: Support Vector Machine
-   	* ML classifiers: Decision Trees
+	* ML classifiers: Decision Trees
 	* ML classifiers: ensemble of classifiers
 	* </> exercise
 * __Lesson #7__ __(April 10, 2024 \| 18:00-20:00 \| Prof. Cava)__ <br>
