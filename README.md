@@ -28,30 +28,31 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #3__ __(March 18, 2024 \| 18:00-20:00)__ ✓ <br>
 	* Machine learning
 	* Validation / Evaluation
-* __Lesson #4__ __(March 20, 2024 \| 18:00-20:00)__ <br>
+* __Lesson #4__ __(March 20, 2024 \| 18:00-20:00)__ ✓ <br>
 	* Overfitting / Underfitting
 	* Feature extraction
 	* Image segmentation
-	* Radiomics
 * __Lesson #5__ __(March 25, 2024 \| 16:00-19:00)__ <br>
-	* Feature selection
-	* ML classifiers: Decision Trees
+	* Image segmentation
+	* Radiomics
+    	* Feature selection
 	* ML classifiers: Support Vector Machine
 	* </> exercise
 * __Lesson #6__ __(April 8, 2024 \| 16:00-19:00)__ <br>
+	* ML classifiers: Decision Trees
 	* ML classifiers: ensemble of classifiers
-	* ML classifiers: Neural Networks; Deep Learning
 	* </> exercise
 * __Lesson #7__ __(April 10, 2024 \| 18:00-20:00 \| Prof. Cava)__ <br>
 	* Biological databases
 * __Lesson #8__ __(April 15, 2024 \| 16:00-19:00 \| Prof. Cava)__ <br>
 	* Extraction and analysis of genomic data
 * __Lesson #9__ __(April 17, 2024 \| 15:00-18:00)__ <br>
+	* ML classifiers: Neural Networks; Deep Learning
+	* </> exercise
+* __Lesson #10__ __(May 8, 2023 \| 16:00-19:00)__ <br>
 	* Class imbalance
 	* Explainable AI
 	* </> exercise
-* __Lesson #10__ __(May 8, 2023 \| 16:00-19:00)__ <br>
-	* Project presentation
 
 <br>
 
@@ -61,7 +62,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 [__[Dataset]__](https://drive.google.com/drive/folders/11HbSmpo5W9w7P8mvQCJnhFuPPuN8jjYX?usp=drive_link)
 [__[Literature]__](https://drive.google.com/drive/folders/11F2J1HOIqK7LlQsWfHWaJ3_Bd65WnGKF?usp=drive_link)
 [__[Parent Folder]__](https://drive.google.com/drive/folders/1D3QhBieMsD8sGNj8zhyXSQN13QNGWfpe?usp=drive_link)
-[__[Competition]__](TBD)
+[__[Competition]__](https://www.kaggle.com/competitions/iuss-23-24-automatic-diagnosis-breast-cancer)
 [__[Teams]__](https://drive.google.com/drive/folders/11FbBHLLG0BnhRWTlJvI6Bres8Q4elQ3D?usp=drive_link)
 [__[Example of papers for examination]__](https://drive.google.com/drive/folders/11D8Wg7hkvtEvZLKqLFeWM3SiVhVZP6S7?usp=sharing)
 
