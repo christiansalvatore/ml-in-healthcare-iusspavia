@@ -37,7 +37,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* Radiomics
 	* Feature selection
 	* </> exercise
-* __Lesson #6__ __(April 8, 2024 \| 16:00-19:00)__ <br>
+* __Lesson #6__ __(April 8, 2024 \| 16:00-19:00)__ ✓ <br>
 	* ML classifiers: Support Vector Machine
 	* ML classifiers: Decision Trees
 	* ML classifiers: ensemble of classifiers
@@ -47,7 +47,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #8__ __(April 15, 2024 \| 16:00-19:00 \| Prof. Cava)__ <br>
 	* Extraction and analysis of genomic data
 * __Lesson #9__ __(April 17, 2024 \| 15:00-18:00)__ <br>
-	* ML classifiers: Neural Networks; Deep Learning
+	* ML classifiers: Random Forest; Neural Networks; Deep Learning
 	* </> exercise
 * __Lesson #10__ __(May 8, 2023 \| 16:00-19:00)__ <br>
 	* Class imbalance
