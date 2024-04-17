@@ -42,11 +42,11 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 	* ML classifiers: Decision Trees
 	* ML classifiers: ensemble of classifiers
 	* </> exercise
-* __Lesson #7__ __(April 10, 2024 \| 18:00-20:00 \| Prof. Cava)__ <br>
+* __Lesson #7__ __(April 10, 2024 \| 18:00-20:00 \| Prof. Cava)__ ✓ <br>
 	* Biological databases
-* __Lesson #8__ __(April 15, 2024 \| 16:00-19:00 \| Prof. Cava)__ <br>
+* __Lesson #8__ __(April 15, 2024 \| 16:00-19:00 \| Prof. Cava)__ ✓ <br>
 	* Extraction and analysis of genomic data
-* __Lesson #9__ __(April 17, 2024 \| 15:00-18:00)__ <br>
+* __Lesson #9__ __(April 17, 2024 \| 15:00-18:00)__ ✓ <br>
 	* ML classifiers: Random Forest; Neural Networks; Deep Learning
 	* </> exercise
 * __Lesson #10__ __(May 8, 2023 \| 16:00-19:00)__ <br>
