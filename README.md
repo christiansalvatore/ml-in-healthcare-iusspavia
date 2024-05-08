@@ -49,7 +49,7 @@ Please, leave any comment/suggestion about the course [here](https://docs.google
 * __Lesson #9__ __(April 17, 2024 \| 15:00-18:00)__ ✓ <br>
 	* ML classifiers: Random Forest; Neural Networks; Deep Learning
 	* </> exercise
-* __Lesson #10__ __(May 8, 2023 \| 16:00-19:00)__ <br>
+* __Lesson #10__ __(May 8, 2023 \| 16:00-19:00)__ ✓ <br>
 	* Application to medical imaging
 	* Class imbalance
 	* Explainable AI
